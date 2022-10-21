@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Redux Training
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project I explored the Redux functionality and possibilities.
 
 ## Available Scripts
 
